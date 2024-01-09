@@ -16,4 +16,4 @@ def largest_prime(n):
 
     print(f"{number} is the largest prime.")
 
-largest_prime(30)
+largest_prime(20)
